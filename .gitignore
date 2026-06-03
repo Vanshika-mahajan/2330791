@@ -1,1 +1,13 @@
-node_modules/
+node_modules
+
+.env
+
+credentials.txt
+
+*.log
+
+.DS_Store
+
+.postman/
+
+postman/
